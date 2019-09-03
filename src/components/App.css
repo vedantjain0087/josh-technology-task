@@ -1,7 +1,9 @@
 .bg{
     background-image: url('./asset/main_bg.jpg');
 }
-
+.separate{
+    margin-top: 25px;
+}
 .green_text{
     color:#3B853F;
 }
@@ -15,4 +17,15 @@
 .content_header{
     border-bottom: 1px solid #3B853F;
     font-size: 20px;
+}
+
+.content_font_size{
+    font-size: 13px;
+}
+.margin_para{
+    margin-top: 25px;
+    }
+
+.content_color{
+    color: #848484
 }
