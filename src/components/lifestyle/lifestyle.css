@@ -1,0 +1,30 @@
+.lifestyle_box{
+    border:1px solid #E9E9E9;
+    padding:20px;
+}
+.life_font_size{
+    font-size: 13px;
+}
+
+.life_color{
+    color: #848484
+}
+.grey_background{
+    background: rgb(255,255,255);
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(243,243,243,1) 100%);
+}
+.margin_para{
+margin-top: 25px;
+}
+.btn_position{
+    margin-top: 20%;
+}
+.btn_decoration{
+    background: white;
+    border:1px solid #E9E9E9;
+    padding: 5px;
+    width: 165px;
+    text-align: left;
+    font-size: 15px;
+    padding: 5px;
+}
