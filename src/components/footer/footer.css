@@ -1,0 +1,19 @@
+footer{
+    background-color: #8C8785;
+    height: 100px;
+    margin-top: 20px;
+    padding: 20px;
+}
+.footer_left ul{
+    display: flex;
+    list-style: none;
+}
+.footer_left ul li{
+    color: #DDDBDB;
+    font-size: 12px;
+    margin-left: 10px;
+}
+.footer_right{
+    color: #BBB7B6;
+    font-size: 12px;
+}
