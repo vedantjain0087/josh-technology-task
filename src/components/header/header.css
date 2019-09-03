@@ -1,0 +1,15 @@
+.ml10{
+    margin-left: 10%;
+}
+.mr10{
+    margin-right: 10%;
+}
+
+.width100{
+width:100%;
+}
+
+.space_around{
+    display: flex;
+    justify-content: space-around;
+}
