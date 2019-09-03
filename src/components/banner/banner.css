@@ -1,0 +1,12 @@
+.carousal_item_right_content{
+    position: absolute;
+    top: 20%;
+    right: 5%;
+    width: 25%;
+}
+.circ_heading{
+    font-size: 22px;
+}
+.circ_content{
+    margin-top: 10px;
+}

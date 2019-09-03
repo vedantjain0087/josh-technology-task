@@ -6,7 +6,7 @@ class Lifestyle extends Component {
         return (
             <div className="container separate">
             <div className="row">
-            <div className="col-md-10 ml-auto mr-auto lifestyle_box grey_background">
+            <div className="col-md-10 ml-auto mr-auto web_box grey_background">
                 <div className="content_header green_text">
                     THE CONNECTED LIFESTYLE
                 </div>
@@ -35,8 +35,9 @@ class Lifestyle extends Component {
                                 </div>
                                 </div>
                             <div className="row">
-                                <div className="col-md-6 border_right">
+                                <div className="col-md-6 lifestyle_images border_right">
                                     <img src="images/lifestyle_thmb_img01.png"/>
+                                    <br/>
                                     <span className="green_text">Connect</span>
                                     <br/>
                                     <p className="content_font_size content_color">
@@ -44,8 +45,9 @@ class Lifestyle extends Component {
                                      by the readable content of a page when looking at its layout.
                                      </p>
                                 </div>
-                                <div className="col-md-6">
+                                <div className="col-md-6 lifestyle_images">
                                 <img src="images/lifestyle_thmb_img02.png"/>
+                                <br/>
                                 <span className="green_text">EXPERIENCE</span>
                                     <br/>
                                     <p className="content_font_size content_color">
@@ -61,8 +63,9 @@ class Lifestyle extends Component {
                         </div>
                         </div>
                             <div className="row">
-                                <div className="col-md-6 border_right">
+                                <div className="col-md-6 border_right lifestyle_images">
                                     <img src="images/lifestyle_thmb_img03.png"/>
+                                    <br/>
                                     <span className="green_text">DISCOVER</span>
                                     <br/>
                                     <p className="content_font_size content_color">
@@ -70,8 +73,9 @@ class Lifestyle extends Component {
                                      by the readable content of a page when looking at its layout.
                                      </p>
                                       </div>
-                                <div className="col-md-6">
+                                <div className="col-md-6 lifestyle_images ">
                                 <img src="images/lifestyle_thmb_img04.png"/>
+                                <br/>
                                 <span className="green_text">GROW</span>
                                     <br/>
                                     <p className="content_font_size content_color">

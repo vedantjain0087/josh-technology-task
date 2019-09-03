@@ -1,31 +1,92 @@
-.bg{
+.bg {
     background-image: url('./asset/main_bg.jpg');
 }
-.separate{
+
+.separate {
     margin-top: 25px;
 }
-.green_text{
-    color:#3B853F;
+
+.green_text {
+    color: #3B853F;
 }
-.grey_text{
+
+.grey_text {
     color: #B4B4B4;
 }
-.border_right{
+
+.border_right {
     border-right: 1px solid #E9E9E9;
 }
 
-.content_header{
+.content_header {
     border-bottom: 1px solid #3B853F;
     font-size: 20px;
 }
 
-.content_font_size{
+.content_font_size {
     font-size: 13px;
 }
-.margin_para{
+
+.margin_para {
     margin-top: 25px;
+}
+
+.content_color {
+    color: #848484
+}
+
+.grey_background {
+    background: rgb(255, 255, 255);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(243, 243, 243, 1) 100%);
+}
+
+.web_box {
+    border: 1px solid #E9E9E9;
+    padding: 20px;
+}
+
+.div_separator {
+    margin-top: 20px
+}
+
+.adjust {
+    margin-left: -30px;
+    margin-right: -30px;
+}
+
+.btn_position{
+    margin-top: 20%;
+}
+.btn_position2{
+    margin-top: 20px;
+}
+.btn_decoration{
+    background: white;
+    border:1px solid #E9E9E9;
+    padding: 5px;
+    width: 165px;
+    text-align: left;
+    font-size: 15px;
+    padding: 5px;
+    padding-left: 10px;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+    .customer_images img,
+    .media_container img {
+        width: 100%;
     }
 
-.content_color{
-    color: #848484
+    .lifestyle_images img {
+        margin: auto;
+        display: block;
+    }
+
+    .adjust {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
 }

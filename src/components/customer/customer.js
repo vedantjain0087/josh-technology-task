@@ -4,7 +4,7 @@ class Customer extends Component {
     render() {
         return (
             <div className="container separate">
-                <div className="row">
+                <div className="row adjust">
                     <div className="col-md-10 ml-auto mr-auto">
                         <div className="row">
                     <div className="col-md-8">
@@ -16,7 +16,7 @@ class Customer extends Component {
                          Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                           when an unknown printer took a galley of type and scrambled it to make a type specimen book. I
                         </p>
-                        <div className="img_container">
+                        <div className="img_container customer_images">
                             <img src="images/custmr_logo01.png"/>
                             <img src="images/custmr_logo02.png"/>
                             <img src="images/custmr_logo03.png"/>
