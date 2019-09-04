@@ -10,3 +10,15 @@
 .circ_content{
     margin-top: 10px;
 }
+
+@media screen and (max-width: 600px){
+    .circ_heading{
+        font-size: 12px;
+    }
+    .circ_content{
+        font-size: 10px;
+    }
+    .carousal_item_right_content{;
+        top: 10%;
+    }
+}

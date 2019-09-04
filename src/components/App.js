@@ -24,8 +24,8 @@ class App extends Component {
                 {src:"https://www.youtube.com/embed/6NEN9QWSG_M", thumb:'images/Screenshot from 2019-09-04 14-31-08.png',description:"DESCRIPTION OF VIDEO 4"},
             ],
             banner_details:[
-                {src:'images/banner_slider_01.jpg', heading:'QUIS NOSTRUM ULLAM', description:'Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni'},
-                {src:'images/banner_slider_02.jpg', heading:'Ut enim ad minima veniam,', description:'Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil '},
+                {src:'images/banner_slider_01.jpg', heading:'QUIS NOSTRUM ULLAM', description:'Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed'},
+                {src:'images/banner_slider_02.jpg', heading:'Ut enim ad minima veniam,', description:'Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam'},
             ],
             news:[
                 {title:'Neque porro quisquam est qui dolorem',date:'June 1, 2011',body:'Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut ... '},

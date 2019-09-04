@@ -40,7 +40,7 @@ cursor: pointer;
   
   .popup {
     margin: 70px auto;
-    padding: 20px;
+    padding: 10px;
     background: #fff;
     border-radius: 5px;
     width: 50%;
@@ -63,7 +63,7 @@ cursor: pointer;
     color: #06D85F;
   }
   .popup .content {
-    max-height: 30%;
+    max-height: 100%;
     overflow: auto;
     margin-top: 1%;
   }
@@ -95,6 +95,15 @@ cursor: pointer;
       width: 70%;
     }
     .popup{
-      width: 70%;
+      width: 80%;
+    }
+    .prev_icon{
+      left: -11%;
+    }
+    .next_icon{
+      right: -11%;
+    }
+    .next_icon,  .prev_icon{
+      width: 10%;
     }
   }
