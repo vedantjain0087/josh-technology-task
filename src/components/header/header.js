@@ -4,7 +4,7 @@ import './header.css'
 class Header extends Component {
   render() {
     return (
-<nav className="navbar navbar-expand-lg navbar-light bg-light">
+<nav className="navbar navbar-expand-lg navbar-light">
         <a className="navbar-brand ml10" href="#"><img src="images/logo.png"/></a>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon" />
@@ -21,7 +21,7 @@ class Header extends Component {
               <a className="nav-link" href="#">News + Events</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link disabled" href="#">About Us</a>
+              <a className="nav-link" href="#">About Us</a>
             </li>
           </ul>
         </div>

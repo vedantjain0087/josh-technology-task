@@ -22,7 +22,7 @@ class Lifestyle extends Component {
                         essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing
                         Lorem Ipsum passages
                             <br/>
-                        <button className="btn_position green_text btn_decoration">LEARN MORE <span style={{float:'right', color:'black'}}> > </span></button>
+                        <button className="btn_position green_text btn_decoration">LEARN MORE <img style={{float:'right',marginTop: '5px',marginRight: '10px'}}src="images/arrow.png"/></button>
                     </p>
 
                     </div>
